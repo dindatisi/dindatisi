@@ -1,7 +1,7 @@
 ## Hello World 👋
 <h3> I'm Dinda </a>  </h3> 
 
-![Linkedin: dindatc](https://img.shields.io/badge/-dindatc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dindatc/)
+[![Linkedin: dindatc](https://img.shields.io/badge/-dindatc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dindatc/)](https://www.linkedin.com/in/dindatc/)
 [![GitHub dindatisi](https://img.shields.io/github/followers/dindatisi?label=follow&style=social)](https://github.com/dindatisi)
 - 📫 Contact: *dinda@hey.com* 
 - 📝 Website/Blog: https://www.dindatc.com/
