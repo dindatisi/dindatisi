@@ -38,8 +38,7 @@ Feel free to reach me out if you want to discuss about data analytics, or other 
 <ul>
   <li><img src="https://avatars0.githubusercontent.com/u/1481788?s=280&v=4" width="30">Analytics at trivago 🇩🇪 </li>
   <li><img src="https://upload.wikimedia.org/wikipedia/sco/thumb/d/d1/University_College_London_logo.svg/1200px-University_College_London_logo.svg.png" width="70">  MSc Business Analytics 👩‍🎓</li>
-  <li>👩🏻‍💻    currently working on Attribution Model and SEM Bidding topics </li>
-  <li>🤔💭 also interested in product & growth analytics topics</li>
+  <li>👩🏻‍💻 Doing analytics stuff at work </li>
  <li>Check out my <a href="https://github.com/dindatisi/analytics_reading_list">Analytics Reading List Repo</a> </li>.
 </ul>
 
