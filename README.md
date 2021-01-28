@@ -12,8 +12,8 @@
 I am a full stack data science/analytics professional. 
 I specialize in product & marketing analytics topics and have spent the majority of my career using data to support decision makers in those areas.
 
-I studied Business Analytics at UCL and currently work at trivago HQ in Germany. 
-Prior to this, I worked at a SouthEast Asia's Decacorn (GO-JEK) and an AI startup in London.
+I studied Business Analytics at UCL and currently work at Cleo AI as part of the Growth Team. 
+Previously at trivago HQ in Germany, SouthEast Asia's Decacorn (GO-JEK) and an AI startup in London.
 
 At work I make slides to deliver insights, crunch data, or code & develop models. 
 But in my leisure time, I drown myself into wide array of hobbies. 
